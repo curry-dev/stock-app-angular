@@ -9,7 +9,14 @@
 
 
 ### RESULT
-![]()
+![](/home.png)
+![](/summary.png)
+![](/news.png)
+![](/chart.png)
+![](/insights.png)
+![](/buy.png)
+![](/portfolio.png)
+![](/watchlist.png)
 
 
 
